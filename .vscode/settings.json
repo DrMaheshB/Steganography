@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "limits.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "stat.h": "c",
+        "stdbool.h": "c",
+        "error.h": "c",
+        "interface.h": "c"
+    }
+}
